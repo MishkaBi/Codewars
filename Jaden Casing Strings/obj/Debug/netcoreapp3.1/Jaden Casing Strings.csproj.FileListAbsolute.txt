@@ -1,0 +1,13 @@
+D:\Programming\GITHUB\Codewar\Jaden Casing Strings\bin\Debug\netcoreapp3.1\Jaden Casing Strings.exe
+D:\Programming\GITHUB\Codewar\Jaden Casing Strings\bin\Debug\netcoreapp3.1\Jaden Casing Strings.deps.json
+D:\Programming\GITHUB\Codewar\Jaden Casing Strings\bin\Debug\netcoreapp3.1\Jaden Casing Strings.runtimeconfig.json
+D:\Programming\GITHUB\Codewar\Jaden Casing Strings\bin\Debug\netcoreapp3.1\Jaden Casing Strings.runtimeconfig.dev.json
+D:\Programming\GITHUB\Codewar\Jaden Casing Strings\bin\Debug\netcoreapp3.1\Jaden Casing Strings.dll
+D:\Programming\GITHUB\Codewar\Jaden Casing Strings\bin\Debug\netcoreapp3.1\Jaden Casing Strings.pdb
+D:\Programming\GITHUB\Codewar\Jaden Casing Strings\obj\Debug\netcoreapp3.1\Jaden Casing Strings.csprojAssemblyReference.cache
+D:\Programming\GITHUB\Codewar\Jaden Casing Strings\obj\Debug\netcoreapp3.1\Jaden Casing Strings.AssemblyInfoInputs.cache
+D:\Programming\GITHUB\Codewar\Jaden Casing Strings\obj\Debug\netcoreapp3.1\Jaden Casing Strings.AssemblyInfo.cs
+D:\Programming\GITHUB\Codewar\Jaden Casing Strings\obj\Debug\netcoreapp3.1\Jaden Casing Strings.csproj.CoreCompileInputs.cache
+D:\Programming\GITHUB\Codewar\Jaden Casing Strings\obj\Debug\netcoreapp3.1\Jaden Casing Strings.dll
+D:\Programming\GITHUB\Codewar\Jaden Casing Strings\obj\Debug\netcoreapp3.1\Jaden Casing Strings.pdb
+D:\Programming\GITHUB\Codewar\Jaden Casing Strings\obj\Debug\netcoreapp3.1\Jaden Casing Strings.genruntimeconfig.cache

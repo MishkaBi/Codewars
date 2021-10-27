@@ -1,0 +1,13 @@
+D:\Programming\Projects2\LastSurvivor\bin\Debug\netcoreapp3.1\LastSurvivor.exe
+D:\Programming\Projects2\LastSurvivor\bin\Debug\netcoreapp3.1\LastSurvivor.deps.json
+D:\Programming\Projects2\LastSurvivor\bin\Debug\netcoreapp3.1\LastSurvivor.runtimeconfig.json
+D:\Programming\Projects2\LastSurvivor\bin\Debug\netcoreapp3.1\LastSurvivor.runtimeconfig.dev.json
+D:\Programming\Projects2\LastSurvivor\bin\Debug\netcoreapp3.1\LastSurvivor.dll
+D:\Programming\Projects2\LastSurvivor\bin\Debug\netcoreapp3.1\LastSurvivor.pdb
+D:\Programming\Projects2\LastSurvivor\obj\Debug\netcoreapp3.1\LastSurvivor.csprojAssemblyReference.cache
+D:\Programming\Projects2\LastSurvivor\obj\Debug\netcoreapp3.1\LastSurvivor.AssemblyInfoInputs.cache
+D:\Programming\Projects2\LastSurvivor\obj\Debug\netcoreapp3.1\LastSurvivor.AssemblyInfo.cs
+D:\Programming\Projects2\LastSurvivor\obj\Debug\netcoreapp3.1\LastSurvivor.csproj.CoreCompileInputs.cache
+D:\Programming\Projects2\LastSurvivor\obj\Debug\netcoreapp3.1\LastSurvivor.dll
+D:\Programming\Projects2\LastSurvivor\obj\Debug\netcoreapp3.1\LastSurvivor.pdb
+D:\Programming\Projects2\LastSurvivor\obj\Debug\netcoreapp3.1\LastSurvivor.genruntimeconfig.cache

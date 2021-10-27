@@ -1,0 +1,13 @@
+D:\Programming\GITHUB\Codewars\Growth of a Population\Growth of a Population\bin\Debug\netcoreapp3.1\Growth of a Population.exe
+D:\Programming\GITHUB\Codewars\Growth of a Population\Growth of a Population\bin\Debug\netcoreapp3.1\Growth of a Population.deps.json
+D:\Programming\GITHUB\Codewars\Growth of a Population\Growth of a Population\bin\Debug\netcoreapp3.1\Growth of a Population.runtimeconfig.json
+D:\Programming\GITHUB\Codewars\Growth of a Population\Growth of a Population\bin\Debug\netcoreapp3.1\Growth of a Population.runtimeconfig.dev.json
+D:\Programming\GITHUB\Codewars\Growth of a Population\Growth of a Population\bin\Debug\netcoreapp3.1\Growth of a Population.dll
+D:\Programming\GITHUB\Codewars\Growth of a Population\Growth of a Population\bin\Debug\netcoreapp3.1\Growth of a Population.pdb
+D:\Programming\GITHUB\Codewars\Growth of a Population\Growth of a Population\obj\Debug\netcoreapp3.1\Growth of a Population.csprojAssemblyReference.cache
+D:\Programming\GITHUB\Codewars\Growth of a Population\Growth of a Population\obj\Debug\netcoreapp3.1\Growth of a Population.AssemblyInfoInputs.cache
+D:\Programming\GITHUB\Codewars\Growth of a Population\Growth of a Population\obj\Debug\netcoreapp3.1\Growth of a Population.AssemblyInfo.cs
+D:\Programming\GITHUB\Codewars\Growth of a Population\Growth of a Population\obj\Debug\netcoreapp3.1\Growth of a Population.csproj.CoreCompileInputs.cache
+D:\Programming\GITHUB\Codewars\Growth of a Population\Growth of a Population\obj\Debug\netcoreapp3.1\Growth of a Population.dll
+D:\Programming\GITHUB\Codewars\Growth of a Population\Growth of a Population\obj\Debug\netcoreapp3.1\Growth of a Population.pdb
+D:\Programming\GITHUB\Codewars\Growth of a Population\Growth of a Population\obj\Debug\netcoreapp3.1\Growth of a Population.genruntimeconfig.cache
