@@ -4,29 +4,28 @@ namespace Return_the_Missing_Element
 {
     class Program
     {
-        public static int GetMissingElement(int[] superImportantArray)
+        public static int GetMissingElement(int[] sourceArray)
         {
-            int result = 0;
-            for (int i = 0; i < superImportantArray.Length; i++)
+            for (int i = 0; i < sourceArray.Length; i++)
             {
-                for (int j = 0; j < superImportantArray.Length; j++)
+                for (int j = 0; j < sourceArray.Length; j++)
                 {
-                    if (i == superImportantArray[j])
+                    if (i == sourceArray[j])
                     {
                         break;
                     }
-                    if (j == superImportantArray.Length - 1)
+                    if (j == sourceArray.Length - 1)
                     {
-                        result = i;
+                        return i;
                     }
                 }
             }
-            return result;
+            return 0;
         }
 
         static void Main(string[] args)
         {
-            int[] ar = { 9, 8, 7, 5, 4, 3, 2, 1, 0 };
+            int[] ar = { 6, 8, 7, 5, 4, 3, 2, 1, 0 };
             Console.WriteLine(GetMissingElement(ar));
         }
     }

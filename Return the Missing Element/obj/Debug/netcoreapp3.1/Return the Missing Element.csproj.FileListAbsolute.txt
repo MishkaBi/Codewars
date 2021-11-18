@@ -4,10 +4,11 @@ D:\Programming\GITHUB\Codewars\Return the Missing Element\bin\Debug\netcoreapp3.
 D:\Programming\GITHUB\Codewars\Return the Missing Element\bin\Debug\netcoreapp3.1\Return the Missing Element.runtimeconfig.dev.json
 D:\Programming\GITHUB\Codewars\Return the Missing Element\bin\Debug\netcoreapp3.1\Return the Missing Element.dll
 D:\Programming\GITHUB\Codewars\Return the Missing Element\bin\Debug\netcoreapp3.1\Return the Missing Element.pdb
-D:\Programming\GITHUB\Codewars\Return the Missing Element\obj\Debug\netcoreapp3.1\Return the Missing Element.csprojAssemblyReference.cache
 D:\Programming\GITHUB\Codewars\Return the Missing Element\obj\Debug\netcoreapp3.1\Return the Missing Element.AssemblyInfoInputs.cache
 D:\Programming\GITHUB\Codewars\Return the Missing Element\obj\Debug\netcoreapp3.1\Return the Missing Element.AssemblyInfo.cs
 D:\Programming\GITHUB\Codewars\Return the Missing Element\obj\Debug\netcoreapp3.1\Return the Missing Element.csproj.CoreCompileInputs.cache
 D:\Programming\GITHUB\Codewars\Return the Missing Element\obj\Debug\netcoreapp3.1\Return the Missing Element.dll
 D:\Programming\GITHUB\Codewars\Return the Missing Element\obj\Debug\netcoreapp3.1\Return the Missing Element.pdb
 D:\Programming\GITHUB\Codewars\Return the Missing Element\obj\Debug\netcoreapp3.1\Return the Missing Element.genruntimeconfig.cache
+D:\Programming\GITHUB\Codewars\Return the Missing Element\obj\Debug\netcoreapp3.1\Return the Missing Element.csproj.AssemblyReference.cache
+D:\Programming\GITHUB\Codewars\Return the Missing Element\obj\Debug\netcoreapp3.1\Return the Missing Element.GeneratedMSBuildEditorConfig.editorconfig
