@@ -11,20 +11,20 @@ namespace Elevator_Distance
         }
         public static int ElevatorDistance(int[] array)
         {
-            int result1 = 0, result = 0;
+            int distanceOfEachTrip = 0, result = 0;
 
             for (int i = 0; i < array.Length - 1; i++)
             {
                 if (array[i] - array[i + 1] < 0)
                 {
-                    result1 = array[i] - array[i + 1];
-                    result1 *= -1;
+                    distanceOfEachTrip = array[i] - array[i + 1];
+                    distanceOfEachTrip *= -1;
                 }
                 else
                 {
-                    result1 = array[i] - array[i + 1];
+                    distanceOfEachTrip = array[i] - array[i + 1];
                 }
-                result += result1;
+                result += distanceOfEachTrip;
             }
             return result;
         }
