@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "All Star Code Challenge 15", "All Star Code Challenge 15.csproj", "{E688122C-C4E9-45B7-A2F3-E1BF0C738B1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E688122C-C4E9-45B7-A2F3-E1BF0C738B1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E688122C-C4E9-45B7-A2F3-E1BF0C738B1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E688122C-C4E9-45B7-A2F3-E1BF0C738B1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E688122C-C4E9-45B7-A2F3-E1BF0C738B1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {057C7569-3085-455F-A74A-8C34085AE4A3}
+	EndGlobalSection
+EndGlobal
