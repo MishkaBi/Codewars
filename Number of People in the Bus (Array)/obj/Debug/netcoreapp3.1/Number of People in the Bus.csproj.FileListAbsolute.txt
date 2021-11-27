@@ -1,0 +1,28 @@
+D:\Programming\GITHUB\Codewars\Number of People in the Bus\bin\Debug\netcoreapp3.1\Number of People in the Bus.exe
+D:\Programming\GITHUB\Codewars\Number of People in the Bus\bin\Debug\netcoreapp3.1\Number of People in the Bus.deps.json
+D:\Programming\GITHUB\Codewars\Number of People in the Bus\bin\Debug\netcoreapp3.1\Number of People in the Bus.runtimeconfig.json
+D:\Programming\GITHUB\Codewars\Number of People in the Bus\bin\Debug\netcoreapp3.1\Number of People in the Bus.runtimeconfig.dev.json
+D:\Programming\GITHUB\Codewars\Number of People in the Bus\bin\Debug\netcoreapp3.1\Number of People in the Bus.dll
+D:\Programming\GITHUB\Codewars\Number of People in the Bus\bin\Debug\netcoreapp3.1\Number of People in the Bus.pdb
+D:\Programming\GITHUB\Codewars\Number of People in the Bus\obj\Debug\netcoreapp3.1\Number of People in the Bus.csproj.AssemblyReference.cache
+D:\Programming\GITHUB\Codewars\Number of People in the Bus\obj\Debug\netcoreapp3.1\Number of People in the Bus.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\GITHUB\Codewars\Number of People in the Bus\obj\Debug\netcoreapp3.1\Number of People in the Bus.AssemblyInfoInputs.cache
+D:\Programming\GITHUB\Codewars\Number of People in the Bus\obj\Debug\netcoreapp3.1\Number of People in the Bus.AssemblyInfo.cs
+D:\Programming\GITHUB\Codewars\Number of People in the Bus\obj\Debug\netcoreapp3.1\Number of People in the Bus.csproj.CoreCompileInputs.cache
+D:\Programming\GITHUB\Codewars\Number of People in the Bus\obj\Debug\netcoreapp3.1\Number of People in the Bus.dll
+D:\Programming\GITHUB\Codewars\Number of People in the Bus\obj\Debug\netcoreapp3.1\Number of People in the Bus.pdb
+D:\Programming\GITHUB\Codewars\Number of People in the Bus\obj\Debug\netcoreapp3.1\Number of People in the Bus.genruntimeconfig.cache
+D:\Programming\GITHUB\Codewars\Number of People in the Bus (Array)\bin\Debug\netcoreapp3.1\Number of People in the Bus.exe
+D:\Programming\GITHUB\Codewars\Number of People in the Bus (Array)\bin\Debug\netcoreapp3.1\Number of People in the Bus.deps.json
+D:\Programming\GITHUB\Codewars\Number of People in the Bus (Array)\bin\Debug\netcoreapp3.1\Number of People in the Bus.runtimeconfig.json
+D:\Programming\GITHUB\Codewars\Number of People in the Bus (Array)\bin\Debug\netcoreapp3.1\Number of People in the Bus.runtimeconfig.dev.json
+D:\Programming\GITHUB\Codewars\Number of People in the Bus (Array)\bin\Debug\netcoreapp3.1\Number of People in the Bus.dll
+D:\Programming\GITHUB\Codewars\Number of People in the Bus (Array)\bin\Debug\netcoreapp3.1\Number of People in the Bus.pdb
+D:\Programming\GITHUB\Codewars\Number of People in the Bus (Array)\obj\Debug\netcoreapp3.1\Number of People in the Bus.csproj.AssemblyReference.cache
+D:\Programming\GITHUB\Codewars\Number of People in the Bus (Array)\obj\Debug\netcoreapp3.1\Number of People in the Bus.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\GITHUB\Codewars\Number of People in the Bus (Array)\obj\Debug\netcoreapp3.1\Number of People in the Bus.AssemblyInfoInputs.cache
+D:\Programming\GITHUB\Codewars\Number of People in the Bus (Array)\obj\Debug\netcoreapp3.1\Number of People in the Bus.AssemblyInfo.cs
+D:\Programming\GITHUB\Codewars\Number of People in the Bus (Array)\obj\Debug\netcoreapp3.1\Number of People in the Bus.csproj.CoreCompileInputs.cache
+D:\Programming\GITHUB\Codewars\Number of People in the Bus (Array)\obj\Debug\netcoreapp3.1\Number of People in the Bus.dll
+D:\Programming\GITHUB\Codewars\Number of People in the Bus (Array)\obj\Debug\netcoreapp3.1\Number of People in the Bus.pdb
+D:\Programming\GITHUB\Codewars\Number of People in the Bus (Array)\obj\Debug\netcoreapp3.1\Number of People in the Bus.genruntimeconfig.cache
