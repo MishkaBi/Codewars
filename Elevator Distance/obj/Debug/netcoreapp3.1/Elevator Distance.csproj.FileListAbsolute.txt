@@ -1,0 +1,14 @@
+D:\Programming\GITHUB\Codewars\Elevator Distance\bin\Debug\netcoreapp3.1\Elevator Distance.exe
+D:\Programming\GITHUB\Codewars\Elevator Distance\bin\Debug\netcoreapp3.1\Elevator Distance.deps.json
+D:\Programming\GITHUB\Codewars\Elevator Distance\bin\Debug\netcoreapp3.1\Elevator Distance.runtimeconfig.json
+D:\Programming\GITHUB\Codewars\Elevator Distance\bin\Debug\netcoreapp3.1\Elevator Distance.runtimeconfig.dev.json
+D:\Programming\GITHUB\Codewars\Elevator Distance\bin\Debug\netcoreapp3.1\Elevator Distance.dll
+D:\Programming\GITHUB\Codewars\Elevator Distance\bin\Debug\netcoreapp3.1\Elevator Distance.pdb
+D:\Programming\GITHUB\Codewars\Elevator Distance\obj\Debug\netcoreapp3.1\Elevator Distance.AssemblyInfoInputs.cache
+D:\Programming\GITHUB\Codewars\Elevator Distance\obj\Debug\netcoreapp3.1\Elevator Distance.AssemblyInfo.cs
+D:\Programming\GITHUB\Codewars\Elevator Distance\obj\Debug\netcoreapp3.1\Elevator Distance.csproj.CoreCompileInputs.cache
+D:\Programming\GITHUB\Codewars\Elevator Distance\obj\Debug\netcoreapp3.1\Elevator Distance.dll
+D:\Programming\GITHUB\Codewars\Elevator Distance\obj\Debug\netcoreapp3.1\Elevator Distance.pdb
+D:\Programming\GITHUB\Codewars\Elevator Distance\obj\Debug\netcoreapp3.1\Elevator Distance.genruntimeconfig.cache
+D:\Programming\GITHUB\Codewars\Elevator Distance\obj\Debug\netcoreapp3.1\Elevator Distance.csproj.AssemblyReference.cache
+D:\Programming\GITHUB\Codewars\Elevator Distance\obj\Debug\netcoreapp3.1\Elevator Distance.GeneratedMSBuildEditorConfig.editorconfig
