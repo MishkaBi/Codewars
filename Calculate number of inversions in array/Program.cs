@@ -7,9 +7,9 @@ namespace Calculate_number_of_inversions_in_array
         public static int CountInversions(int[] array)
         {
             int counter = 0;
-            for (int i = 0; i < array.Length; i++)
+            for (int i = 0, q = 0; q < array.Length; q++)
             {
-                for (int j = i; j < array.Length; j++)
+                for (int j = 0; j < array.Length - q; j++)
                 {
                     if (array[i] > array[j])
                     {
@@ -17,16 +17,27 @@ namespace Calculate_number_of_inversions_in_array
                         array[j] = array[i];
                         array[i] = tmp;
                         counter++;
+                        i++;
+                    }
+                    else if(array[i] == array[j])
+                    {
+                        i = j;
                     }
                 }
+                i = 0;
             }
             return counter;
         }
         static void Main(string[] args)
         {
-            int[] array = { 4, 3, 2, 1};
+            int[] array = { 8, 8, 8, 8, 7, 7, 7, 7 };
 
             Console.WriteLine(CountInversions(array)); // 6
+
+            for (int i = 0; i < array.Length; i++)
+            {
+                Console.WriteLine(array[i]);
+            }
         }
     }
 }
