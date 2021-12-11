@@ -1,0 +1,14 @@
+D:\Programming\GITHUB\Codewars\Number of People in the Bus (Collection)\bin\Debug\netcoreapp3.1\Number of People in the Bus (Collection).exe
+D:\Programming\GITHUB\Codewars\Number of People in the Bus (Collection)\bin\Debug\netcoreapp3.1\Number of People in the Bus (Collection).deps.json
+D:\Programming\GITHUB\Codewars\Number of People in the Bus (Collection)\bin\Debug\netcoreapp3.1\Number of People in the Bus (Collection).runtimeconfig.json
+D:\Programming\GITHUB\Codewars\Number of People in the Bus (Collection)\bin\Debug\netcoreapp3.1\Number of People in the Bus (Collection).runtimeconfig.dev.json
+D:\Programming\GITHUB\Codewars\Number of People in the Bus (Collection)\bin\Debug\netcoreapp3.1\Number of People in the Bus (Collection).dll
+D:\Programming\GITHUB\Codewars\Number of People in the Bus (Collection)\bin\Debug\netcoreapp3.1\Number of People in the Bus (Collection).pdb
+D:\Programming\GITHUB\Codewars\Number of People in the Bus (Collection)\obj\Debug\netcoreapp3.1\Number of People in the Bus (Collection).csproj.AssemblyReference.cache
+D:\Programming\GITHUB\Codewars\Number of People in the Bus (Collection)\obj\Debug\netcoreapp3.1\Number of People in the Bus (Collection).GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\GITHUB\Codewars\Number of People in the Bus (Collection)\obj\Debug\netcoreapp3.1\Number of People in the Bus (Collection).AssemblyInfoInputs.cache
+D:\Programming\GITHUB\Codewars\Number of People in the Bus (Collection)\obj\Debug\netcoreapp3.1\Number of People in the Bus (Collection).AssemblyInfo.cs
+D:\Programming\GITHUB\Codewars\Number of People in the Bus (Collection)\obj\Debug\netcoreapp3.1\Number of People in the Bus (Collection).csproj.CoreCompileInputs.cache
+D:\Programming\GITHUB\Codewars\Number of People in the Bus (Collection)\obj\Debug\netcoreapp3.1\Number of People in the Bus (Collection).dll
+D:\Programming\GITHUB\Codewars\Number of People in the Bus (Collection)\obj\Debug\netcoreapp3.1\Number of People in the Bus (Collection).pdb
+D:\Programming\GITHUB\Codewars\Number of People in the Bus (Collection)\obj\Debug\netcoreapp3.1\Number of People in the Bus (Collection).genruntimeconfig.cache
