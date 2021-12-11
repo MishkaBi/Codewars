@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Calculate number of inversions in array/1.0.0": {
+        "runtime": {
+          "Calculate number of inversions in array.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Calculate number of inversions in array/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
