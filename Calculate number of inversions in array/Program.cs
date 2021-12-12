@@ -19,9 +19,13 @@ namespace Calculate_number_of_inversions_in_array
                         counter++;
                         i++;
                     }
-                    else if(array[i] == array[j])
+                    else if (array[i] == array[j])
                     {
                         i = j;
+                    }
+                    else if (array[i] < array[j])
+                    {
+                        i++;
                     }
                 }
                 i = 0;
@@ -30,9 +34,9 @@ namespace Calculate_number_of_inversions_in_array
         }
         static void Main(string[] args)
         {
-            int[] array = { 8, 8, 8, 8, 7, 7, 7, 7 };
+            int[] array = {1, 2, 1, 2, 3};
 
-            Console.WriteLine(CountInversions(array)); // 6
+            Console.WriteLine(CountInversions(array));
 
             for (int i = 0; i < array.Length; i++)
             {
