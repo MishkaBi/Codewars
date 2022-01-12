@@ -2,7 +2,7 @@
 
 namespace Number_of_People_in_the_Bus
 {
-    class Program
+    public static class Program
     {
         static void Main(string[] args)
         {
@@ -18,7 +18,7 @@ namespace Number_of_People_in_the_Bus
                 peopleGetIntoBus += peopArrayInOut[i, 0];
                 peopleGetOffTheBus += peopArrayInOut[i, 1];
             }
-            return peopleGetIntoBus - peopleGetOffTheBus;   // 5
+            return peopleGetIntoBus - peopleGetOffTheBus;
         }
     }
 }
