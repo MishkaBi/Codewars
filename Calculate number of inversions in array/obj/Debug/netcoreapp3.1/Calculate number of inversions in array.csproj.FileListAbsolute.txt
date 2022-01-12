@@ -1,0 +1,14 @@
+D:\Programming\GITHUB\Codewars\Calculate number of inversions in array\bin\Debug\netcoreapp3.1\Calculate number of inversions in array.exe
+D:\Programming\GITHUB\Codewars\Calculate number of inversions in array\bin\Debug\netcoreapp3.1\Calculate number of inversions in array.deps.json
+D:\Programming\GITHUB\Codewars\Calculate number of inversions in array\bin\Debug\netcoreapp3.1\Calculate number of inversions in array.runtimeconfig.json
+D:\Programming\GITHUB\Codewars\Calculate number of inversions in array\bin\Debug\netcoreapp3.1\Calculate number of inversions in array.runtimeconfig.dev.json
+D:\Programming\GITHUB\Codewars\Calculate number of inversions in array\bin\Debug\netcoreapp3.1\Calculate number of inversions in array.dll
+D:\Programming\GITHUB\Codewars\Calculate number of inversions in array\bin\Debug\netcoreapp3.1\Calculate number of inversions in array.pdb
+D:\Programming\GITHUB\Codewars\Calculate number of inversions in array\obj\Debug\netcoreapp3.1\Calculate number of inversions in array.csproj.AssemblyReference.cache
+D:\Programming\GITHUB\Codewars\Calculate number of inversions in array\obj\Debug\netcoreapp3.1\Calculate number of inversions in array.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\GITHUB\Codewars\Calculate number of inversions in array\obj\Debug\netcoreapp3.1\Calculate number of inversions in array.AssemblyInfoInputs.cache
+D:\Programming\GITHUB\Codewars\Calculate number of inversions in array\obj\Debug\netcoreapp3.1\Calculate number of inversions in array.AssemblyInfo.cs
+D:\Programming\GITHUB\Codewars\Calculate number of inversions in array\obj\Debug\netcoreapp3.1\Calculate number of inversions in array.csproj.CoreCompileInputs.cache
+D:\Programming\GITHUB\Codewars\Calculate number of inversions in array\obj\Debug\netcoreapp3.1\Calculate number of inversions in array.dll
+D:\Programming\GITHUB\Codewars\Calculate number of inversions in array\obj\Debug\netcoreapp3.1\Calculate number of inversions in array.pdb
+D:\Programming\GITHUB\Codewars\Calculate number of inversions in array\obj\Debug\netcoreapp3.1\Calculate number of inversions in array.genruntimeconfig.cache
